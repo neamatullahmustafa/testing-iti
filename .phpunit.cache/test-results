@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"Task1Test::testfactZero":0.00200000000000000004163336342344337026588618755340576171875,"Task1Test::testfactOne":0,"Task1Test::testfactFive":0,"Task1Test::testfactRandomInt":0,"Task1Test::testfactNegative":0,"Task1Test::testfactFloat":0,"Task1Test::testfactFalse":0,"Task1Test::testfactString":0}}
